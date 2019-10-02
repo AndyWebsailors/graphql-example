@@ -1,4 +1,5 @@
 {
+  "ignore": ["frontend/"],
   "env": {
     "MONGO_DB": "graphqlExample"
   }
